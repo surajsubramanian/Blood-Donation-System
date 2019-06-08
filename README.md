@@ -1,3 +1,5 @@
+BLOOD DONATION SYSTEM
+
 A program has been designed so as to implement blood donation system in a very small scale.
 There are four classes namely blood_bank, admin, donor and patient.
 The blood bank class contains an array of static int variable named blood group which stores the number of packets available in each blood group currently.
