@@ -11,7 +11,8 @@ There are four classes,namely
 
 The *blood bank* class contains an array of static int variable named blood group which stores the number of packets available in each blood group currently.
 The *Administrators* can see the number of packets of blood available for each blood group through the admin class by entering the password.
-*Donors* can login to enter their details and can donate any number of blood packets while *patients* can login and borrow 1 packet at a time.
+*Donors* can login to enter their details and can donate any number of blood packets 
+*Patients* can login and borrow 1 packet at a time. Patinets can borrow any of the compatible blood groups.
 
 ## Outputs
 
@@ -37,3 +38,5 @@ The *Administrators* can see the number of packets of blood available for each b
 ### Patient ( when the blood group is not present in the blood bank)
 
 <img src = "./images/patient_failure.png" >
+
+Thanks for reading :)
