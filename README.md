@@ -21,18 +21,19 @@ The *Administrators* can see the number of packets of blood available for each b
 
 ### Donors 
 
-< img src = "./images/donor.png" >
-< img src = "./images/donor2.png" >
-< img src = "./images/donor3.png" >
+<img src = "./images/donor.png" >
+<img src = "./images/donor2.png" >
+<img src = "./images/donor3.png" >
 
 ### Admin
 
-< img src = "./images/admin_after3donor.png" >
+<img src = "./images/admin_after3donor.png" >
 
 ### Patient ( when the blood group is present in the blood bank)
 
-< img src = "./images/patient_success1.png" >
+
+<img src = "./images/patient_success1.png" >
 
 ### Patient ( when the blood group is not present in the blood bank)
 
-< img src = "./images/patient_failure.png" >
+<img src = "./images/patient_failure.png" >
