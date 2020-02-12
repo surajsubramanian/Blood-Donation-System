@@ -22,8 +22,8 @@ The *Administrators* can see the number of packets of blood available for each b
 ### Donors 
 
 < img src = "./images/donor.png" >
-< img src = "./images/donor1.png" >
 < img src = "./images/donor2.png" >
+< img src = "./images/donor3.png" >
 
 ### Admin
 
